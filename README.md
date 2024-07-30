@@ -115,7 +115,7 @@ The dataset used for this project contains comprehensive information about the b
 - **Tools:** Microsoft Word, Microsoft PowerPoint.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE] for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) for details.
 
 ## Acknowledgements
 This project is an adaptation of the concepts and methodologies taught by Data Tutorials on YouTube. Special thanks to Data Tutorials for their guidance and instructional videos.
