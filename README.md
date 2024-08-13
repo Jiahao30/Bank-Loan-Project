@@ -95,6 +95,7 @@ The dataset used for this project contains comprehensive information about the b
 - **Tools:** MySQL.
 
 **5. Data Visualisation**
+- **Preview:** [Tableau Public](https://public.tableau.com/app/profile/jiahao.shao/viz/MarketingProject_17234127913230/ModellingAnalysis)
 - **Steps:** Create interactive dashboards to visualise loan data and trends.
   - **Dashboards:**
     - *Summary Dashboard:* High-level overview of key metrics and loan statuses.
