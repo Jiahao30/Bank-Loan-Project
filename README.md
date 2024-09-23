@@ -130,4 +130,5 @@ Please note that this project is an adaptation of the concepts and methodologies
 ## Contact Me
 For any questions or feedback regarding this project, feel free to reach out:
 - Email: jiahao.shao30@gmail.com
-- LinkedIn: <b>[Jiahao Shao](https://www.linkedin.com/in/shao-jiahao)</b>
+- LinkedIn: <b>[Jasper Shao](https://www.linkedin.com/in/jasper-shao/)</b>
+- GitHub: <b>[Jasper Shao](https://github.com/Jiahao30)</b>
